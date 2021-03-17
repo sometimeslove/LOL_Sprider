@@ -1,2 +1,2 @@
-# LOL_Sprider
-LOL_Sprider
+# LOL_Spider
+英雄联盟人物爬虫
